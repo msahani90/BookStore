@@ -1,0 +1,13 @@
+D:\Demo\DotNetApps\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.deps.json
+D:\Demo\DotNetApps\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.json
+D:\Demo\DotNetApps\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.runtimeconfig.dev.json
+D:\Demo\DotNetApps\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.dll
+D:\Demo\DotNetApps\BookStore\BookStore\bin\Debug\netcoreapp2.1\BookStore.pdb
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.csproj.CoreCompileInputs.cache
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cache
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorAssemblyInfo.cs
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfoInputs.cache
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.AssemblyInfo.cs
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.RazorTargetAssemblyInfo.cache
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.dll
+D:\Demo\DotNetApps\BookStore\BookStore\obj\Debug\netcoreapp2.1\BookStore.pdb
